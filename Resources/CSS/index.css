@@ -1,0 +1,99 @@
+
+* {
+    box-sizing: border-box;
+  }
+
+h1 {
+    color: rgb(7, 4, 4);
+}
+
+p {
+    font-size: 1.25em;
+}
+
+.coqui-img {
+    -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    float: center;
+    width: 300px;
+  }
+
+.banner {
+    background-color: lightcyan;
+    color: rgb(8, 4, 4);
+    margin-top: 75px;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 20px;
+    border: 3px solid black;
+  }
+
+.hola {
+    text-align: center;
+    background-color: steelblue;
+    border: 3px solid black;
+}
+
+ul li {
+    list-style-type: none;
+    font-size: 1.25em;
+    font-weight: 600;
+    padding: 10px;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    text-rendering: auto;
+    background-color: lightcyan;
+    padding-top: 1px;
+    padding-bottom: 20px;
+}
+body{
+    background-color: darkgray;
+    margin-left: 20%;
+    margin-right:20%;
+    border:1px dotted gray;
+    font-family: sans-serif;
+}
+
+.que-pasa {
+    text-align: center;
+    color: black;
+    font-weight: 450;
+}
+
+.coqui {
+    text-align: center;
+    font-weight: 600;
+    padding-top: 10px; 
+    background-color: red;
+    padding-bottom: 10px;
+    padding-top: 0;
+    border: 3px solid black;
+}
+
+.coqui h2 {
+    background-color: lightcyan;
+}
+
+.responsive-iframe {
+    width: 1300px;
+    height: 350px;
+    max-height: 100%;
+    max-width: 100%;
+    border: 3px solid black;
+}
+
+footer {
+    background-color: lightcyan;
+    color: black;
+    margin-top: 75px;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border: 3px solid black;
+}
+
+
